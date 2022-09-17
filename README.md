@@ -15,7 +15,7 @@ These are the artworks used to create the wallpapers on this repository:
 
 These wallpapers were tested on an iPhone 14 Pro (1720px x 3728 px), but they should fit nicely more modern iPhones.
 
-I have edited the images to fit nicely on your phone's screen, taking into consideration the widget area and the notifications on the bottom. Some might not be perfect, just open an [issue](https://github.com/aersoares81/helvetica_blanc_wallpapers/issues) if you notice something is off and I'll re-edit them.
+I have edited the images to fit your phone's screen, taking into consideration the widget area and the notifications on the bottom. Some might not be perfect, just open an [issue](https://github.com/aersoares81/helvetica_blanc_wallpapers/issues) if you notice something is off and I'll re-edit them.
 
 This is an example to demonstrate how iOS 16 spaces widgets, etc, in your Lock Screen:
 
