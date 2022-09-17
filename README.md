@@ -1,6 +1,6 @@
-# Helvetica Blanc - Unnoficial iPhone Wallpapers
+# iPhone Wallpapers based on the art of Helvetica Blanc
 
-This repository contains a few wallpapers (designed to fit iPhones) based on the art of [Helvetica Blanc](https://helveticablanc.com/index.html).
+This repository contains a few wallpapers based on the art of [Helvetica Blanc](https://helveticablanc.com/index.html). Check [their Patreon](https://www.patreon.com/helveticablanc)!
 
 This is the list of the original work by Helvetica Blanc:
 [Work 2](https://helveticablanc.com/20220830-work-2.html), 
@@ -15,20 +15,22 @@ This is the list of the original work by Helvetica Blanc:
 
 These wallpapers were tested on an iPhone 14 Pro (1720px x 3728 px), but they should fit nicely more modern iPhones.
 
-An example showing how I chose to space the elements in the images:
+I have edited the images to fit nicely on your phone's screen, taking into consideration the widget area and the notifications on the bottom. Some might not be perfect, just open an [issue](https://github.com/aersoares81/helvetica_blanc_wallpapers/issues) if you notice something is off and I'll re-edit them.
+
+This is an example to demonstrate how iOS 16 spaces widgets, etc, in your Lock Screen:
 
 ![Customizing Lock Screen](https://github.com/aersoares81/helvetica_blanc_wallpapers/blob/main/examples/customization_example.PNG) 
-
-I have edited the images to fit nicely on your phone's screen, taking into consideration the widget area and the notifications on the bottom. Some might not be perfect, just open an [issue](https://github.com/aersoares81/helvetica_blanc_wallpapers/issues) if you notice something is off and I'll re-edit them.
 
 ## Wallpapers included
 
 | ![Example of usage - part 1](https://github.com/aersoares81/helvetica_blanc_wallpapers/blob/main/examples/examples1.jpeg) | 
 |:--:| 
 | *Work 2 / Invitation 2 / Vessel 3* |
+
 | ![Example of usage - part 2](https://github.com/aersoares81/helvetica_blanc_wallpapers/blob/main/examples/examples2.jpeg) | 
 |:--:| 
 | *Liturgy / Reliquary / Abrogation* |
+
 | ![Example of usage - part 3](https://github.com/aersoares81/helvetica_blanc_wallpapers/blob/main/examples/examples3.jpeg) | 
 |:--:| 
 | *Loci / Gate 4 / Invocation 6* |
