@@ -35,9 +35,10 @@ This is an example to demonstrate how iOS 16 spaces widgets, etc, in your Lock S
 |:--:| 
 | *Loci / Gate 4 / Invocation 6* |
 
+Please notice these are just usage examples, you can edit the fonts, widgets, etc.
 
 ## Installation & Usage
 The easiest way is to download whatever wallpaper you want using your phone's browser. Of course you can ``git clone`` it into your computer, you do you.
 
 ## Attributions
-These wallpapers are shared under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), just like the original art. You can read more on the licensing of the original artwork [here](https://helveticablanc.com/licensing.html).
+These wallpapers are shared under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), just like the original art. You can read more on the licensing of the original artwork [here](https://helveticablanc.com/licensing.html). The changes made to 'Work 2' and 'Invitation 2' were so the widgets would fit inside the boxes. The original Reliquary artwork is much larger , check it out! These wallpapers were not endorsed by Helvetica Blanc, and are being distributed under the same license as the original ones.
