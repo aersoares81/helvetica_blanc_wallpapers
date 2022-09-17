@@ -2,7 +2,7 @@
 
 This repository contains a few wallpapers based on the art of [Helvetica Blanc](https://helveticablanc.com/index.html). Check [their Patreon](https://www.patreon.com/helveticablanc)!
 
-This is the list of the original work by Helvetica Blanc:
+These are the artworks used to create the wallpapers on this repository:
 [Work 2](https://helveticablanc.com/20220830-work-2.html), 
 [Vessel 3](https://helveticablanc.com/20220412-vessel-3.html), 
 [Liturgy](https://helveticablanc.com/20201111-liturgy.html), 
