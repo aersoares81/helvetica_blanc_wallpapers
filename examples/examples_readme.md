@@ -1,1 +1,1 @@
-These are just images to be used in the reade me file.
+These are just images to be used in the readme me file.
