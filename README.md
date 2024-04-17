@@ -91,7 +91,7 @@ This is an example to demonstrate how iOS 16 spaces widgets, etc, in your Lock S
 Please notice these are just usage examples, you can edit the fonts, widgets, etc.
 
 ## Installation & Usage
-The easiest way is to download whatever wallpaper you want using your phone's browser. Of course you can ``git clone`` it into your computer, you do you.
+The easiest way is to download whatever wallpaper you want using your phone's browser. Of course you can ``git clone`` it into your computer, you do you. I also provide a zip file with all wallpapers inside.
 
 ## Attributions
 These wallpapers are shared under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), just like the original art. You can read more on the licensing of the original artwork [here](https://helveticablanc.com/licensing.html). The changes made to a few of the artworks were so the widgets would fit inside the boxes. The original Reliquary artwork is much larger , check it out! These wallpapers were not endorsed by Helvetica Blanc.
